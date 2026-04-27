@@ -8,9 +8,6 @@
 ![Deployment](https://img.shields.io/badge/Deployed%20on-Netlify-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**Transparent AI for Fair Admissions**
-
-# 🧠 Glass Box Admissions Screener
 
 **Transparent AI for Fair Admissions**
 
