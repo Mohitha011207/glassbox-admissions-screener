@@ -1,0 +1,6 @@
+{
+  "name": "Glass Box Admissions Screener",
+  "description": "A transparent AI-powered admissions screening tool featuring bias audit, SHAP explanations, and what-if simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
