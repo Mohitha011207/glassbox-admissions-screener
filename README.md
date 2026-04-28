@@ -9,10 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
-**Transparent AI for Fair Admissions**
 
-🔗 Live Demo: https://kaleidoscopic-ganache-fa164a.netlify.app/  
-💻 GitHub Repo: https://github.com/Mohitha011207/glassbox-admissions-screener
 
 ---
 
